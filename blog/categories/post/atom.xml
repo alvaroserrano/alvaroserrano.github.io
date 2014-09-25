@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: post | Álvaro Serrano]]></title>
+  <link href="http://alvaroserrano.github.io/blog/categories/post/atom.xml" rel="self"/>
+  <link href="http://alvaroserrano.github.io/"/>
+  <updated>2014-09-25T20:39:48+02:00</updated>
+  <id>http://alvaroserrano.github.io/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cuando se trata de Apple, somos todos tontos]]></title>
+    <link href="http://alvaroserrano.github.io/2013/09/18/cuando-se-trata-de-apple-somos-todos-tontos/"/>
+    <updated>2013-09-18T16:04:33+02:00</updated>
+    <id>http://alvaroserrano.github.io/2013/09/18/cuando-se-trata-de-apple-somos-todos-tontos</id>
+    <content type="html"><![CDATA[<p>Como es de sobra conocido, el sector periodístico es uno de los más afectados por la crisis económica en España, donde multitud de profesionales ampliamente cualificados tienen serias dificultades para conseguir o mantener su empleo. Una situación como ésta, en la que los medios ven sus recursos sustancialmente reducidos, se vuelve obvia cuando medios antiguamente respetables y con una larga tradición periodística comienzan a bajar sensiblemente el estándar de profesionalidad en sus publicaciones.</p>
+
+<p>Para muestra, un botón: un artículo recientemente publicado en la sección de tecnología de la edición online de El País, titulado <a href="http://tecnologia.elpais.com/tecnologia/2013/09/16/actualidad/1379322355_472597.html">&ldquo;Me siento estafado&rdquo;</a>, y firmado por <a href="https://twitter.com/Chiqui">Chiqui De La Fuente</a>.</p>
+
+<p>Se trata, como sugiere el título, de un artículo de opinión. Y ya se sabe que la opinión es un tema curioso porque, como dice el dicho, para gustos los colores. Parece pues, que bajo la bandera de la opinión está permitido casi todo, incluyendo la publicación de artículos tan ineptos y marcadamente malintencionados como el que suscribe el Sr. De La Fuente, que además es directamente falso.</p>
+
+<p>En el artículo, el Sr. De La Fuente lamenta sentirse estafado porque el iPad que compró &ldquo;hace apenas 3 años&rdquo; no es actualizable a iOS 7, la recién estrenada nueva versión del sistema operativo móvil de Apple. Una crítica que, de por sí, podría ser válida, si no fuera porque es completamente falsa, además de denotar un profundo desconocimiento del sector de los dispositivos móviles, donde la evolución tecnológica se produce a un ritmo vertiginoso. Pero vayamos por partes.</p>
+
+<p>Dejemos a un lado el hecho de que el artículo no es más que un obvio y pobre intento de generar atención (los clicks de la publicidad, amigos). Esto ya sería suficiente como para cuestionar su publicación por parte de un medio como El País, pero hoy me siento con ánimos de picar el anzuelo, así que veamos un ejemplo. El Sr. De La Fuente comienza ensalzando las virtudes de su iPad, una maniobra de sobra conocida en este tipo de artículos, aunque incluso en esta parte se excede en sus comentarios:</p>
+
+<blockquote>Otra cualidad importante es que se actualiza él solito. Cuando una aplicación saca una versión más avanzada, con solo darle a un botón ya la tenemos disponible en nuestra tableta, lista para su uso.</blockquote>
+
+
+<p>Esto es, obviamente, una contradicción, pues si se actualizara &ldquo;él solito&rdquo; no sería necesario darle a ningún botón. Precisamente iOS 7 introduce por primera vez la actualización verdaderamente automática de las aplicaciones, cosa que al Sr. De La Fuente no parece aportarle mucho, ya que aparentemente él está contento con el sistema tradicional. Sigamos:</p>
+
+<blockquote>Pero hete aquí que los responsables de la marca de la manzana han decidido sacar al mercado una nueva versión del sistema operativo (el software que hace funcionar el aparato) y que ese iPad, el que usted y yo tenemos, ya no se puede actualizar. De la noche a la mañana, es un aparato antiguo. Se ha quedado obsoleto.
+</blockquote>
+
+
+<p>Aquí es donde llegamos a la parte importante. Esto es, para que me entiendan, sencillamente falso. Es, además, falso se mire por donde se mire. Fíjense que el Sr. De La Fuente evita mencionar explícitamente el modelo concreto de iPad que compró. Si tomamos su palabra como válida (visto lo visto, un riesgo, lo sé), caben dos posibilidades: que se trate del iPad original o que se trate del iPad 2. Curiosamente, no importa de qué modelo se trate, la premisa del artículo es falsa en ambos casos.</p>
+
+<p>Si  entendemos que el iPad del Sr. De La Fuente es el iPad 2, que se comercializó en España el 25 de marzo de 2011 (hace dos años y medio), la premisa es falsa: el iPad 2 sí que es compatible con iOS 7. Lógico, pues se trata de un dispositivo que actualmente sigue en venta. De hecho, el iPad 2 es un producto anómalo en la oferta de Apple precisamente por su extensa longevidad, algo que el Sr. De La Fuente, convenientemente, no acierta a mencionar.</p>
+
+<p>Si, en cambio, entendemos que el iPad del Sr. De La Fuente es el iPad original, anunciado el 27 de enero de 2010 y que salió a la venta en España en mayo de ese mismo año, la premisa es igualmente falsa: el iPad original <a href="http://en.wikipedia.org/wiki/IPad_(1st_generation">quedó limitado a iOS 5.1.1</a>#Software) (fuente en inglés), es decir, no pudo actualizarse a iOS 6, con lo que en realidad su supuesta obsolescencia ocurrió <a href="http://en.wikipedia.org/wiki/IOS_6">hace aproximadamente un año</a> y no ahora.</p>
+
+<p>Así pues, ¿debemos creer que al Sr. De La Fuente le indigna tanto un asunto que ha tardado más de un año en descubrir? ¿O tal vez son otros intereses los que le llevan a manipular la verdad para poder criticar a Apple en este preciso momento? ¿Por qué permite El País la publicación de un artículo tan lamentablemente mal documentado y no contrastado en absoluto? Soy tan defensor de la libertad de expresión (y de opinión) como cualquiera, pero esto no un problema de opinión: es, simplemente, mentir.</p>
+
+<p>El resto del artículo no es más que una repetición de los mismos argumentos sin ninguna base que tantas veces se esgrimen para criticar a Apple, como si sólo fueran aplicables exclusivamente a la compañía de Cupertino. Por ejemplo:</p>
+
+<blockquote>Ningún consumidor medio en su sano juicio hace una inversión importante de dinero en un cacharrito que en apenas tres o cuatro años va a ser más inservible que un vídeo betamax.</blockquote>
+
+
+<p>Otra afirmación falsa. Un dispositivo que no es compatible con la última actualización de un sistema operativo no es, ni mucho menos, inservible. Actualmente hay millones de iPads originales siendo usados en todo el mundo por gente que, a diferencia del Sr. De La Fuente, entiende que estar a la última no es indispensable. Esto es, además, especialmente digno de mención porque implica una considerable falta de respeto al lector: cualquiera que no esté de acuerdo no debe estar &ldquo;en su sano juicio&rdquo;. Debe ser eso, que los millones de clientes satisfechos de Apple somos todos tontos, y el único listo es él.</p>
+
+<blockquote>El mensaje que Apple lanza a sus clientes es algo así como: “Si no puede actualizar nuestros productos, no merece pertenecer a nuestro club”. Una verdadera lástima y quién sabe si un importante error estratégico, porque en el mercado hay otras opciones, algunas de ellas más asequibles y con sistemas operativos que no discriminan por razón de edad. 
+</blockquote>
+
+
+<p>De nuevo, una falsedad. Me gustaría saber cuántos móviles o tablets Android fabricados en 2010 son compatibles con la última versión del sistema operativo, <a href="http://www.android.com/about/jelly-bean/">Android 4.3 Jelly Bean</a>. Apuesto a que esa cifra sí que daría para un artículo interesante.</p>
+
+<p>En fin, podría seguir pero creo que el asunto está claro, juzguen ustedes mismos. Para terminar, me quedo con la última frase del artículo:</p>
+
+<blockquote>Yo, como consumidor, me siento estafado.</blockquote>
+
+
+<p>Por fin, en la última frase, algo en lo que el Sr. De La Fuente y yo coincidimos. Yo, como lector, también me siento estafado.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Carta Abierta a María Seguí, Directora de la DGT]]></title>
+    <link href="http://alvaroserrano.github.io/2013/03/06/carta-abierta-a-maria-segui-directora-de-la-dgt/"/>
+    <updated>2013-03-06T20:18:26+01:00</updated>
+    <id>http://alvaroserrano.github.io/2013/03/06/carta-abierta-a-maria-segui-directora-de-la-dgt</id>
+    <content type="html"><![CDATA[<p><strong>ACTUALIZACIÓN:</strong> Si estás de acuerdo con esta carta, puedes copiarla y enviarla tú también a María Seguí, a la dirección: <a href="mailto:secretaria.directora@dgt.es">secretaria.directora@dgt.es</a>. Se trata de un asunto muy serio y cuantos más seamos, mejor.</p>
+
+<p>Estimada señora Seguí,</p>
+
+<p>Me dirijo a usted como madrileño y ciclista urbano, para mostrarle mi profundo desacuerdo con la reforma del Reglamento General de Circulación que está actualmente en trámite de aprobación.</p>
+
+<p>Concretamente, las modificaciones que más me preocupan son las siguientes:</p>
+
+<ul>
+<li>La obligatoriedad del casco en vías urbanas</li>
+<li>La obligación de los ciclistas a circular por la parte derecha del carril</li>
+</ul>
+
+
+<p>Estas dos medidas, entre varias otras, lejos de mejorar la calidad y seguridad de la circulación en bicicleta por nuestras ciudades, las deterioran considerablemente.</p>
+
+<p>En particular, la obligatoriedad del casco es especialmente preocupante. Tal y como muestran numerosos estudios realizados al respecto, el casco obligatorio reduce sensiblemente el número de ciclistas en las calles sin proporcionar una adecuada protección en caso de accidente grave, cosa que estoy seguro usted conoce. En cualquier caso, le recomiendo que vea el siguiente vídeo para contar con una perspectiva distinta a la que ustedes le están dando al asunto:</p>
+
+<p><a href="http://www.youtube.com/watch?v=07o-TASvIxY">TEDx Copenhagen - Why we shouldn&rsquo;t bike with a helmet.</a></p>
+
+<p>Estoy perplejo ante la increíble realidad de que estas medidas se encuentren actualmente en el borrador del RGC entregado al Ministerio del Interior. Se trata de medidas profundamente injustas que afectarán negativamente a muchas personas cada día, que no cuentan con ninguna justificación científica ni estadística que las avale, y que harán que la circulación en nuestras ciudades continúe siendo caótica, contaminante, y esté muy por detrás de otros países europeos y del resto del mundo. Países que hace tiempo que se dieron cuenta de que la bicicleta es una solución, y no un problema.</p>
+
+<p>Por todo esto, le ruego que escuche a las numerosas asociaciones ciclistas, españolas y del resto del mundo, que unánimemente han mostrado su rechazo a esta reforma. Le pido que reconsidere la postura oficial de la DGT, y que se eliminen del borrador estas medidas tan injustas y discriminatorias para con los muchos españoles que día a día dependemos de la bicicleta para desplazarnos por nuestras ciudades.</p>
+
+<p>Atentamente,
+Álvaro Serrano.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Hospital VIHrtual es una realidad]]></title>
+    <link href="http://alvaroserrano.github.io/2011/03/14/el-hospital-vihrtual-es-una-realidad/"/>
+    <updated>2011-03-14T17:26:48+01:00</updated>
+    <id>http://alvaroserrano.github.io/2011/03/14/el-hospital-vihrtual-es-una-realidad</id>
+    <content type="html"><![CDATA[<p>En los últimos años, varios de mis compañeros del <a href="http://www.gbt.tfo.upm.es/">Grupo de Bioingeniería y Telemedicina</a> de la UPM han estado involucrados en un proyecto muy bonito: una experiencia pionera en el mundo en el tratamiento de pacientes con VIH. La puesta en marcha del proyecto ya es oficial, y varios medios nacionales se han hecho eco de la noticia.</p>
+
+<p><a href="http://estaticos03.cache.el-mundo.net/elmundosalud/imagenes/2011/03/14/hepatitissida/1300106403_0.jpg"><img src="http://estaticos03.cache.el-mundo.net/elmundosalud/imagenes/2011/03/14/hepatitissida/1300106403_0.jpg" alt="" /></a></p>
+
+<p>Personalmente, estoy muy contento por mis compañeros, ha sido un duro trabajo que ahora comienza a dar fruto.</p>
+
+<p>¡Enhorabuena!</p>
+
+<p>Vía <a href="http://www.europapress.es/salud/salud-bienestar-00667/noticia-hospital-clinic-barcelona-atiende-distancia-pacientes-vih-experiencia-pionera-20110314134337.html">Europa Press</a> | <a href="http://www.elpais.com/articulo/sociedad/programa/pionero/permite/atender/distancia/200/pacientes/VIH/Hospital/Clinico/Barcelona/elpepusoc/20110314elpepusoc_9/Tes">El País</a> | <a href="http://www.elmundo.es/elmundosalud/2011/03/14/hepatitissida/1300106403.html">El Mundo</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[La penúltima]]></title>
+    <link href="http://alvaroserrano.github.io/2011/03/11/la-penultima/"/>
+    <updated>2011-03-11T19:29:28+01:00</updated>
+    <id>http://alvaroserrano.github.io/2011/03/11/la-penultima</id>
+    <content type="html"><![CDATA[<p>Tengo un buen amigo con el que he salido muchas veces de copas. Entre nosotros existe un lenguaje oculto, una especie de ley de la barra, extraña para todo aquel que no esté familiarizado con antros de luz tenue, bebida barata y buena compañía. Las mejores historias se cuentan en lugares así, y lo que allí se escucha queda entre él y yo, dos vasos vacíos, y una mirada cómplice que asiente detrás de la barra.</p>
+
+<p>Se trata de barricadas donde no hay sitio para rodeos, para juicios de valor o vergüenza. En su lugar, honestidad brutal, a quemarropa, y la tranquilidad de saber que un amigo nunca bebe sólo. Ésa es la primera regla.</p>
+
+<p><a href="http://www.flickr.com/photos/analogsenses/5476502406/"><img src="http://farm6.static.flickr.com/5178/5476502406_d2617ed379.jpg" alt="Gin and Tonic" /></a></p>
+
+<p>En noches así, no hay muchas reglas, pero las que hay están ahí porque cumplen su función. Porque muchos amigos antes que nosotros ocuparon el mismo espacio en una realidad pasada. Algunas cosas nunca cambian. El humo de esos locales, tan denso que apenas nos permite vernos, no proviene de los cigarrillos, sino de los rincones más oscuros dentro de cada uno de nosotros. Soltarlo es la mejor manera de mantenerse cuerdo.</p>
+
+<p>La segunda regla es que no existe la última copa. Con frecuencia, la noche nos encuentra moviéndonos de un sitio a otro, cambiando de forma pero nunca de fondo. No importa donde vayamos, siempre estamos los mismos. El viejo barman que apuró la botella en el bar anterior se oculta ahora bajo una camiseta escotada, ojos grises, vaqueros ajustados y demasiado maquillaje. El hombre que se gastaba el sueldo del mes en la tragaperras prueba ahora su suerte en forma de chaval joven, acercándose tímido al grupo de chicas que acaba de entrar haciendo demasiado ruido. Uno tras otro, vamos reconociendo los mismos personajes de una obra que se interpreta desde hace siglos, hasta que la noche se agota e, inevitablemente, llega el momento de pedir la penúltima.</p>
+
+<p>Porque siempre es la penúltima. La noche terminará, pero él y yo sabemos que el final no es sino un aplazamiento. Habrá más noches, más risas, más copas, y todas ellas terminarán con un brindis. Un homenaje a las cosas que se entienden sin que sea necesario decirlas. Una celebración en reconocimiento de algo que es anterior a nosotros mismos.</p>
+
+<p>Hace unas noches, estaba fuera con otro amigo por Madrid. Era una noche en la que podríamos haber ido a cualquier sitio, pero el azar quiso que fuéramos a la Taberna de Peligros, uno de esos refugios disfrazados de bar. Allí, recibimos la noticia de que el Peligros cerraba sus puertas definitivamente, y tuvimos el honor de ser los últimos a los que se sirvió. Esa noche, un amigo se disfrazó de otro, y juntos representamos un papel que nos sabíamos de memoria. Por todos los que habían pasado antes por allí, y que tendrán que encontrar otro sitio donde respirar, nos acercamos a la barra, y observamos atentos mientras nos ponían la penúltima copa.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[La Red Social]]></title>
+    <link href="http://alvaroserrano.github.io/2011/02/28/la-red-social/"/>
+    <updated>2011-02-28T13:04:02+01:00</updated>
+    <id>http://alvaroserrano.github.io/2011/02/28/la-red-social</id>
+    <content type="html"><![CDATA[<p>Cuando pensamos en redes sociales, lo primero que se nos viene a la cabeza es, naturalmente, facebook. <a href="http://www.imdb.com/title/tt1285016/">La Red Social</a>, la reciente película protagonizada por Jesse Eisenberg, desde luego ha contribuído a aumentar su popularidad, pero no nos engañemos. La realidad es que facebook se ha convertido en un auténtico fenómeno cultural, en un proceso que es fruto de años de planificación, evolución, y sobre todo, una ejecución brillante. Sin embargo, cabe preguntarse si las redes sociales tan de moda hoy en día son realmente útiles, y si contribuyen a hacer nuestra vida diaria más sencilla e interesante, o por el contrario son más un dolor de cabeza y una fuente de preocupaciones.</p>
+
+<p>En mi opinión, el papel de estas nuevas herramientas de comunicación podría compararse a un arma de doble filo. Sus ventajas son tan sólo comparables a sus inconvenientes; y su comodidad se contrarresta con el riesgo que suponen para nuestra privacidad. Para ilustrar esto me remitiré como ejemplo a las dos redes sociales más populares en la actualidad: Twitter y facebook, de las que soy usuario activo.</p>
+
+<p><a href="http://www.flickr.com/photos/rutcerezo/5181522816/"><img src="http://farm2.static.flickr.com/1006/5181522816_3150042165_m.jpg" alt="facebook-vs-twitter" /></a></p>
+
+<p>Por un lado, es innegable que las redes sociales tienen un aspecto muy positivo: ayudan a establecer comunicación y a permanecer en contacto con la gente sin apenas esfuerzo. Hoy en día, resulta relativamente sencillo localizar y retomar el contacto con un viejo amigo, compañero de estudios, etc. Además, contribuyen enormemente a reforzar en nuestro subconsciente el concepto de sociedad global. En una red social típica están interactuando continuamente personas de todas partes del mundo. Esta interacción, además, se produce de un modo totalmente transparente, eliminando virtualmente la dimensión física, de modo que cualquiera puede participar independientemente de su posición en el globo.</p>
+
+<p>Gracias a redes como facebook podemos poner a prueba la teoría de los 6 grados de separación (que defiende que dos personas cualesquiera del planeta están conectadas entre sí a través de sus relaciones personales, siempre en menos de 6 pasos) [1]. En efecto, resulta sorprendente descubrir lazos entre personas aparentemente extrañas, pero que guardan más cosas en común de lo que ambos saben.</p>
+
+<p>También son generadores de conocimiento imponentes. En los tres primeros meses de 2010, por ejemplo, Twitter registró más de cuatro mil millones (4.000.000.000) de “tweets” [2].  Semejante volumen de información sirve para mover el conocimiento a través de Internet a un ritmo vertiginoso. Continuamente se publican enlaces a artículos, publicaciones, descubrimientos, etc. Twitter, en su encarnación más genuina, es un ejemplo clarísimo de la expansión de la información a través de la red global. Prueba de ello es la reciente decisión de la Library Of Congress de los Estados Unidos de archivar el historial completo de “tweets” desde que nació Twitter, defendiendo que “representan un registro fiel de un cambio histórico en la forma de comunicarnos”, y que constituirán “un recurso fantástico” para los investigadores [3, 4].</p>
+
+<p>No se puede negar que además proporcionan una importante oportunidad de hacer negocio. Existen numerosos ejemplos de personas y compañías que han sabido emplear las redes sociales para obtener un considerable beneficio económico. Un caso notable lo encontramos en Matthew Inman, más conocido actualmente como The Oatmeal. Inman es un diseñador web y programador de 27 años, que ha sabido emplear sus habilidades artísticas y de diseño web junto a su amplio conocimiento del funcionamiento las redes sociales para generar campañas de marketing viral con gran éxito. En sus inicios, creó una web de contactos llamada Mingle2. Gracias a estas campañas de marketing, Inman logró atraer varios millones de visitantes nuevos cada mes, y su popularidad le permitió venderla al poco tiempo a uno de sus competidores. Posteriormente, Inman decidió explotar sus habilidades en solitario y creó The Oatmeal, una web de humor en la que el contenido principal es muy similar a las campañas que solía emplear para atraer tráfico hacia otras páginas, con la diferencia de que en The Oatmeal no se trata de reclamos publicitarios, sino que el contenido es lo que cuenta. En sus propias palabras: “Lo que yo quería era dibujar y crear contenido que tuviera valor en si mismo, y gracias a The Oatmeal eso es una realidad” [5, 6].</p>
+
+<p>Las redes sociales presentan todas estas y muchas otras ventajas que las hacen únicas, y que explican el boom que ha experimentado su popularidad en los últimos años (Twitter ya tiene más de 100 millones de usuarios, y facebook más de 400 millones [7]). Sin embargo, frente a todas estas ventajas, las redes sociales presentan también una serie de inconvenientes que no deben ser pasados por alto. Entre ellos, la dependencia que pueden generar en sus usuarios (adicción en algunos casos), la sustitución progresiva de la interacción personal hacia el medio digital (los jóvenes en España utilizan cada vez más tuenti y facebook para quedar y ligar, en vez del contacto real y directo cara a cara), y el incremento del aislamiento que puede darse en individuos naturalmente introvertidos (personas con más de 200 amigos en facebook, que sin embargo no conocen en persona a ninguno de ellos), etc.</p>
+
+<p>De todos ellos, probablemente el más evidente y preocupante es la pérdida de privacidad. Facebook está sufriendo continuamente para definir una política de privacidad que proteja adecuadamente a sus usuarios. A medida que una red social crece y maneja contenidos de naturaleza más diversa, las dificultades en cuanto a la gestión adecuada de esos contenidos se multiplica.</p>
+
+<p>A esta dificultad inevitable hay que añadir el hecho de la mala gestión por parte de los propios usuarios. Aunque la red social no sea directamente responsable en estos casos, el daño final al usuario es el mismo. A través de facebook se han arruinado noviazgos, matrimonios, perdido empleos, etc.</p>
+
+<p>Además, la falta de claridad de facebook en cuanto a su política de privacidad, con mensajes ambiguos y paneles de control excesivamente complejos no hace sino confundir a los usuarios que desean mantener su información privada bajo control [8]. Una causa de enfado reciente vino provocada por la decisión de facebook de compartir arbitrariamente los datos de inicio de sesión de los usuarios sin consultarles previamente mediante el programa “facebook Connect” [9]. La pretensión es que al navegar por ciertos sitios adheridos a facebook, éstos puedan personalizar el contenido que se muestra en función de la información de facebook del usuario. El problema es que el anonimato del usuario en la red queda completamente anulado. Cada usuario debería controlar exclusivamente en qué sitios web decide identificarse (para eso están los cuadros de inicio de sesión). Facebook, al querer asumir este control, se ha extralimitado. Gracias pero no, gracias [10].</p>
+
+<p>En mi opinión, existe una diferencia fundamental en cuanto a la constitución y objetivos de varias redes sociales. Es lo que yo llamo una red social orientada a la generación de contenido, como es Twitter, donde lo importante es lo que se dice, más que quién lo dice; frente a una red social orientada a los usuarios, como es facebook, donde el objetivo es estar al corriente de la vida de una determinada persona. Obviamente esta es una visión subjetiva, únicamente basada en el uso real que se hace de estas redes, no en su planteamiento inicial. Estoy seguro de que los creadores de facebook no deseaban inventar la portera digital, pero desgraciadamente es lo que han conseguido.</p>
+
+<p>Desde mi punto de vista, las redes sociales orientadas a contenidos como Twitter son una herramienta muy valiosa. Y la gran ventaja de Twitter radica precisamente en los servicios que NO ofrece a sus usuarios. En Twitter, la premisa es clara: dispones de 140 caracteres para crear/compartir lo que quieras. Además, el mecanismo de seguimiento está diseñado para eliminar el ruido: un usuario sólo recibe información de aquellos a quienes sigue. Y esta relación no tiene porqué ser recíproca, a diferencia de facebook. Así, si yo soy una persona poco curiosa, como es mi caso, Twitter me permite tener al corriente de mi vida a las personas que lo deseen (sólo tienen que seguirme), al mismo tiempo que limito el flujo de información que entra hacia mí (decidiendo seguir a un grupo reducido de personas). Twitter cumple brillantemente la función para la que fue creado, y deriva servicios adicionales (como la subida de imágenes) a páginas externas, de modo que puede mantener su actividad bajo control.</p>
+
+<p>Sin embargo, en el caso de facebook, la situación es la inversa. La mayor parte del tiempo me encuentro intentando localizar algo de contenido realmente interesante, para lo que  inevitablemente tengo que sortear varios minutos de información que no me interesa en absoluto. Facebook, al intentar convertirse en una red social multiusos y hacerlo todo (subir fotos cuando para eso ya está Flickr, cargar vídeos cuando ya tenemos YouTube, enviar mensajes cuando todo el mundo tiene correo electrónico, y muchos otros ejemplos&hellip;), ha conseguido el efecto contrario al que deseaba: hace de todo, pero no hace nada bien. Es la navaja suiza de las redes sociales: tienes un cuchillo, una lupa y hasta una tijera, pero nadie se cortaría un filete con ella pudiendo usar un cuchillo de verdad.</p>
+
+<p>Ciertamente el reunir todos los servicios dentro de la misma página puede resultar cómodo para algunas personas, pero no es mi caso. Yo soy partidario de las aplicaciones que cumplen una sola función, pero que la cumplen excepcionalmente bien. Facebook no ha sabido implementar todas las cosas que quería, y el resultado final es una plataforma monstruosamente enorme, que está cada vez más fuera de control. El añadir prestaciones nuevas no hace sino empeorar la situación. Si no se producen cambios desde la base, no me veo utilizando facebook de modo regular a corto plazo.</p>
+
+<p>Por último, me gustaría destacar dos iniciativas online que tratan de ayudarnos a mantener bajo control el uso que hacemos de las redes sociales. La primera de ellas es Social Network Purging Day [11], que nos invita a repasar nuestras listas de contactos y a eliminar aquellos que realmente no aportan nada a nuestra experiencia social en la red, tratando de disminuir el “ruido”. Es un evento anual simultáneo planteado como una excusa colectiva para limpiar nuestras redes sociales. El primer Purging Day fue el domingo 20 de marzo de 2010, y yo participé encantado.</p>
+
+<p>La otra es un blog, que defiende el minimalismo en las redes sociales. Similar al Purging Day, trata de aumentar la relación señal a ruido que vivimos en la red mediante la eliminación de las interacciones que no nos aportan nada. Se trata de Practical Opacity [12], a cargo de Patrick Rhone, un escritor amante del minimalismo y del mundo online. Su lema es “get lost without ever leaving”, y resume a la perfección el propósito del blog.</p>
+
+<p>En conclusión, creo que las redes sociales son un instrumento tremendamente interesante, sin ninguna duda una revolución social comparable al nacimiento de la propia Internet. Creo firmemente que son herramientas capaces de aportar mucho valor a nuestras vidas si se usan adecuadamente. Para una persona como yo, interesada en la era digital, son tiempos apasionantes, y las posibilidades son prácticamente ilimitadas.  Sólo espero que no olvidemos que las redes sociales están para nuestro servicio, y no al revés.</p>
+
+<p>¿Os imagináis si todo el mundo decidiera recordar que es mejor pasar un rato agradable en buena compañía sin la necesidad de mirar el móvil cada diez minutos para comprobar el muro o ver si hay nuevos tweets?</p>
+
+<p>Eso sí que sería una revolución.</p>
+
+<hr />
+
+<p>Enlaces relacionados:</p>
+
+<ol>
+<li>Schwab, B.M., Six degrees of separation: weaving connections on the World Wide Web. Pa Dent J (Harrisb), 2009. 76(5): p. 53-4.</li>
+<li>Wikipedia. Twitter. Wikipedia  2010. cited 2010 17-06-2010; Available from: <a href="http://en.wikipedia.org/wiki/Twitter.">http://en.wikipedia.org/wiki/Twitter.</a></li>
+<li>Ars Technica, C. Library of Congress: We&rsquo;re archiving every tweet ever made. Law &amp; Disorder  2010. cited 2010; Available from: <a href="http://arstechnica.com/tech-policy/news/2010/04/library-of-congress-were-archiving-every-tweet-ever-made.ars.">http://arstechnica.com/tech-policy/news/2010/04/library-of-congress-were-archiving-every-tweet-ever-made.ars.</a></li>
+<li>Ars Technica, C. Why the Library of Congress cares about archiving our tweets. Law &amp; Disorder  2010. cited 2010; Available from: <a href="http://arstechnica.com/tech-policy/news/2010/04/why-is-the-us-govt-archiving-your-tweets-we-ask-them.ars.">http://arstechnica.com/tech-policy/news/2010/04/why-is-the-us-govt-archiving-your-tweets-we-ask-them.ars.</a></li>
+<li>Inman, M. Matthew Inman&rsquo;s Portfolio. Matthew Inman  2010. cited 2010 17-06-2010; Available from: <a href="http://0at.org/.">http://0at.org/.</a></li>
+<li>Inman, M. The Oatmeal. The Oatmeal  2010. cited 2010 07-06-2010; Available from: <a href="http://theoatmeal.com/.">http://theoatmeal.com/.</a></li>
+<li>Wikipedia. Facebook.  2010. cited 2010; Available from: <a href="http://en.wikipedia.org/wiki/Facebook.">http://en.wikipedia.org/wiki/Facebook.</a></li>
+<li>Ars Technica, C. FTC complaint says Facebook&rsquo;s privacy changes are deceptive. Law &amp; Disorder  2010. cited 2010; Available from: <a href="http://arstechnica.com/tech-policy/news/2009/12/ftc-complaint-says-facebooks-privacy-changes-are-deceptive.ars.">http://arstechnica.com/tech-policy/news/2009/12/ftc-complaint-says-facebooks-privacy-changes-are-deceptive.ars.</a></li>
+<li>Ars Technica, C. Report: Facebook caught sharing secret data with advertisers. Law &amp; Disorder  2010. cited 2010; Available from: <a href="http://arstechnica.com/tech-policy/news/2010/05/latest-facebook-blunder-secret-data-sharing-with-advertisers.ars.">http://arstechnica.com/tech-policy/news/2010/05/latest-facebook-blunder-secret-data-sharing-with-advertisers.ars.</a></li>
+<li>Ars Technica, C. Understanding the latest Facebook privacy train wreck. Law &amp; Disorder  2010. cited 2010; Available from: <a href="http://arstechnica.com/web/news/2010/05/understanding-the-latest-facebook-privacy-train-wreck.ars.">http://arstechnica.com/web/news/2010/05/understanding-the-latest-facebook-privacy-train-wreck.ars.</a></li>
+<li>Skoda, C. Social Network Purging Day.  2010; Available from: <a href="http://purgingday.com/.">http://purgingday.com/.</a></li>
+<li>Rhone, P. Practical Opacity.  2010; Available from: <a href="http://practicalopacity.com/.">http://practicalopacity.com/.</a></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
